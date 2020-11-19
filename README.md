@@ -1,5 +1,5 @@
 # TSN_JAVA_JUNIT4_linux_2020
-Пример работы с модульными тестами JUNIT4 на Java в NetBeans
+Пример работы с модульными тестами JUNIT4 на Java в NetBeans (linux)
 
 ![srcreenshot](screenshot1.png)
 
